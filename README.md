@@ -2,13 +2,13 @@
 
 This Excel dashboard analyzes key workplace factors such as stress levels, work-life balance, and employee engagement across industries and locations. It provides actionable insights to support HR teams and management in fostering a better work environment.
 
----
-
 ## 📊 Dashboard Overview
 
 ![Dashboard](Dashboard.png)
 
----
+- **Interactive Slicers**  
+  Users can filter views based on various categories for deeper insights.  
+  ![Slicers](Slicers.png)
 
 ## 🚀 Features
 
@@ -24,22 +24,12 @@ This Excel dashboard analyzes key workplace factors such as stress levels, work-
   Shows trends in mental health challenges based on employee location.  
   ![Mental Health Condition by Work Location](MentalHealthCondition-WorkLocation.png)
 
-- **Interactive Slicers**  
-  Users can filter views based on various categories for deeper insights.  
-  ![Slicers](Slicers.png)
-
-- **Documentation Summary**  
-  High-level overview of dashboard design and analysis approach.  
-  ![Documentation](Documentation.png)
-
----
 
 ## 🛠️ Tools Used
 
 - **Excel**: For dashboard creation, data visualization, and dynamic filtering  
 - **Data Processing**: Cleaned and structured raw data for meaningful analysis
 
----
 
 ## 💡 Key Insights
 
@@ -47,8 +37,7 @@ This Excel dashboard analyzes key workplace factors such as stress levels, work-
 - Regions with higher workloads tend to have more reported mental health issues.
 - Improved employee engagement correlates with reduced stress levels and better productivity.
 
----
 
-## 📁 File
+## 📁 F
 
 - `Workplace Analytics Dashboard - Excel.xlsx` – Main Excel file containing the full dashboard and data analysis.
